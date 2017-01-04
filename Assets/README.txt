@@ -1,0 +1,1 @@
+This directory is for storing graphics, etc. that you have created for use in custom button designs.
